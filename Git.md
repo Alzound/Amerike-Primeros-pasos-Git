@@ -46,8 +46,10 @@ Cabe aclarar que Git se puede utilizar tanto en IDE's como en editores de texto.
 | git pull            | Este comando sirve para actualizar los datos locales del repositorio con los que se encuentran de forma remota. | 
 | git help         | Este comando despliega las opciones de ayuda de _Git_ y una pequeña guía (en caso de ser necesario) de como usar cada cosa. |
 <br>   
-| ![ComandosImportantes_1](https://edteam-media.s3.amazonaws.com/community/original/fc43b465-dbfb-465e-9705-b38d230452fc.jpg)                | ![ComandosImportantes_2](https://edteam-media.s3.amazonaws.com/community/original/d1de29e9-bdd0-41e8-ac29-e2d3af962a8b.jpg)                                                |
+                                             |
+![ComandosImportantes_1](https://edteam-media.s3.amazonaws.com/community/original/fc43b465-dbfb-465e-9705-b38d230452fc.jpg)
 
+![ComandosImportantes_2](https://edteam-media.s3.amazonaws.com/community/original/d1de29e9-bdd0-41e8-ac29-e2d3af962a8b.jpg) 
 
 <br>
 ---
